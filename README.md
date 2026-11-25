@@ -23,4 +23,4 @@ Projeto pessoal realizado para treinar manipulação de interface com Jquery
    ```bash
    git clone https://github.com/Isaavs04/Projeto_GestaoDeRemedios_JS.git
 
-Pegar emblema
+
